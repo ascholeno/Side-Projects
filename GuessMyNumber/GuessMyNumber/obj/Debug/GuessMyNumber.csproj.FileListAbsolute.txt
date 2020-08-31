@@ -1,0 +1,7 @@
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\Users\antho\Desktop\MSSA\Fun Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb

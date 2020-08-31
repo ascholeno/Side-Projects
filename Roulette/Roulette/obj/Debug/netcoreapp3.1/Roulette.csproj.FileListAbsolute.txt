@@ -1,0 +1,13 @@
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.genruntimeconfig.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache

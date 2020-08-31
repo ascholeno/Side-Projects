@@ -1,0 +1,7 @@
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\bin\Debug\HuntTheWumpus.exe.config
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\bin\Debug\HuntTheWumpus.exe
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\bin\Debug\HuntTheWumpus.pdb
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\obj\Debug\HuntTheWumpus.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\obj\Debug\HuntTheWumpus.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\obj\Debug\HuntTheWumpus.exe
+C:\Users\antho\Desktop\MSSA\Fun Projects\HuntTheWumpus\HuntTheWumpus\obj\Debug\HuntTheWumpus.pdb
